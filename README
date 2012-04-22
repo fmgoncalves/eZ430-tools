@@ -1,16 +1,4 @@
-eZ430 Tools
+Scripts to play around with the [Chronos EZ430 watch](http://processors.wiki.ti.com/index.php/EZ430-Chronos).
 
-A collection of scripts for interacting with the eZ430 or using the eZ430 to
-interact with other devices based around the included a class. The goal to 
-simplify use of the eZ430 in scripting environments.
-
-
-Current scripts:
-music_control.py - uses gestures to control music http://www.youtube.com/watch?v=u65TkcRRFS4
-ppt.py - uses xdotool to supply button presses from eZ430 as clicks etc.
-ppt-mac.py - uses AppleScript to supply button presses from eZ430 as clicks etc. in Mac
-eZ430.py - provides a class ppt.py uses this class I will be converting music_control if I can be bothered.
-mouse - control mouse in ACC mode. Doesn't work yet really uses xdotool
-
-
-As with all my projects all contributions openly welcome.
+Most of these scripts are adaptations of existing work to suit my needs/usage/coding style.
+Still much, much work to be done.
